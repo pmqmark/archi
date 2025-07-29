@@ -92,14 +92,14 @@ function Navbar() {
                     page single project
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     className="dropdown-item"
                     href="../innerpages/single_project2.html"
                   >
                     page single project 2
                   </a>
-                </li>
+                </li> */}
               </ul>
             </li>
             <li className="nav-item dropdown">
@@ -118,14 +118,14 @@ function Navbar() {
                     page blog
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a
                     className="dropdown-item"
                     href="../innerpages/single_post.html"
                   >
                     page single post
                   </a>
-                </li>
+                </li> */}
               </ul>
             </li>
             <li className="nav-item">

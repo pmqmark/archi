@@ -29,29 +29,29 @@ function Header() {
                       </defs>
                       <text>
                         <textPath xlinkHref="#textcircle" textLength="900">
-                          • Years of experience • since 1991
+                          • Years of experience • since 2015
                         </textPath>
                       </text>
                     </svg>
                   </a>
-                  <span className="num"> 25 </span>
+                  <span className="num"> 10 </span>
                 </div>
               </div>
             </div>
             <div className="row ps-lg-5">
               <div className="col-lg-6">
                 <h5 className="fsz-30 mt-30 fw-400">
-                  Architecture and Interior <br /> Html Theme
+                  Happy Homes <br />
                 </h5>
                 <h1> About us </h1>
               </div>
             </div>
             <ul className="features-txt ps-lg-5">
-              <li> Architecture Studio </li>
-              <li> Interior design </li>
-              <li> 3D modeling & Animation </li>
-              <li> Decoration & Furniture </li>
-              <li> High Performance </li>
+              <li> Customized Interior Designing </li>
+              <li> Furniture Manufacturing & Finishing </li>
+              <li> Custom-Made Hanging Lights </li>
+              <li> Commercial Interior Design </li>
+              {/* <li> High Performance </li> */}
             </ul>
           </div>
         </div>
@@ -81,35 +81,6 @@ function Header() {
           <li>
             <a href="#">
               <i className="fab fa-youtube"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-      <div className="float-icons">
-        <ul>
-          <li>
-            <a href="#">
-              <i className="fal fa-desktop"></i>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fal fa-comments-alt"></i>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fal fa-file-alt"></i>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fal fa-comment-lines"></i>
-            </a>
-          </li>
-          <li>
-            <a href="#">
-              <i className="fal fa-shopping-cart"></i>
             </a>
           </li>
         </ul>

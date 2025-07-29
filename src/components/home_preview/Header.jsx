@@ -34,22 +34,22 @@ function Header() {
                       </text>
                     </svg>
                   </a>
-                  <span className="num"> $ </span>
+                  <span className="num"> ₹ </span>
                 </div>
               </div>
             </div>
             <div className="row ps-lg-5">
               <div className="col-lg-6">
                 <h5 className="fsz-30 mt-30 fw-400">
-                  Architecture and Interior <br /> Html Theme
+                  Architecture and Interior <br />
                 </h5>
-                <h1> archin </h1>
+                <h1> Happy homes </h1>
               </div>
             </div>
             <ul className="features-txt ps-lg-5">
               <li> 8 Amazing Design Concepts </li>
-              <li> 145 Components </li>
-              <li> Figma design based </li>
+              <li> </li>
+              <li></li>
               <li> High Performance </li>
             </ul>
           </div>
