@@ -91,34 +91,6 @@ function Process () {
                     </div>
                   </div>
                   <div className='accordion-item'>
-                    <div className='accordion-header' id='headingFour'>
-                      <button
-                        className='accordion-button collapsed'
-                        type='button'
-                        data-bs-toggle='collapse'
-                        data-bs-target='#collapseFour'
-                      >
-                        <span className='num'> 4 / </span>
-                        <h3> Hand Over </h3>
-                      </button>
-                    </div>
-                    <div
-                      id='collapseFour'
-                      className='accordion-collapse collapse'
-                      data-bs-parent='#accordionProcess'
-                    >
-                      <div className='accordion-body'>
-                        <div className='text'>
-                          After surveying and obtaining the necessary
-                          information, we will create a preliminary design
-                          including technical drawings, 3D images of the
-                          interior and provide a 3D VR experience to help
-                          customers get a visual view of their project.
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div className='accordion-item'>
                     <div className='accordion-header' id='headingFive'>
                       <button
                         className='accordion-button collapsed'
@@ -126,7 +98,7 @@ function Process () {
                         data-bs-toggle='collapse'
                         data-bs-target='#collapseFive'
                       >
-                        <span className='num'> 5 / </span>
+                        <span className='num'> 4 / </span>
                         <h3> 3D Modelling (If Required) </h3>
                       </button>
                     </div>
@@ -151,7 +123,7 @@ function Process () {
                         data-bs-toggle='collapse'
                         data-bs-target='#collapseSix'
                       >
-                        <span className='num'> 6 / </span>
+                        <span className='num'> 5 / </span>
                         <h3> Material Confirmation</h3>
                       </button>
                     </div>
@@ -176,7 +148,7 @@ function Process () {
                         data-bs-toggle='collapse'
                         data-bs-target='#collapseSeven'
                       >
-                        <span className='num'> 7 / </span>
+                        <span className='num'> 6 / </span>
                         <h3> Final Site Check</h3>
                       </button>
                     </div>
