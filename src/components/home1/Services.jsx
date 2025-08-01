@@ -25,7 +25,7 @@ function Services () {
                   </h5>
                   <div className='img'>
                     <img
-                      src='/home1/assets/img/services/ser1.jpg'
+                      src='/service/Commercial_Interior_Design-transformed.JPEG'
                       alt=''
                       className='img-cover'
                     />
@@ -105,7 +105,7 @@ function Services () {
                   <h5 className='fsz-24 mb-20'>Custom-Made Hanging Lights</h5>
                   <div className='img'>
                     <img
-                      src='/home1/assets/img/services/ser4.jpg'
+                      src='/service/Custom-Made_Hanging_Lights-transformed.JPEG'
                       alt=''
                       className='img-cover'
                     />
@@ -131,7 +131,7 @@ function Services () {
                   <h5 className='fsz-24 mb-20'> Commercial Interior Design </h5>
                   <div className='img'>
                     <img
-                      src='/home1/assets/img/services/ser3.jpg'
+                      src='/service/Customized_Interior_Designing-transformed.JPEG'
                       alt=''
                       className='img-cover'
                     />
@@ -157,7 +157,7 @@ function Services () {
                   <h5 className='fsz-24 mb-20'>Wall Treatments</h5>
                   <div className='img'>
                     <img
-                      src='/home1/assets/img/services/ser4.jpg'
+                      src='/service/wall-transformed.JPEG'
                       alt=''
                       className='img-cover'
                     />
@@ -186,7 +186,7 @@ function Services () {
                   </h5>
                   <div className='img'>
                     <img
-                      src='/home1/assets/img/services/ser3.jpg'
+                      src='/service/Wallpaper__Blinds___Curtains-transformed.JPEG'
                       alt=''
                       className='img-cover'
                     />

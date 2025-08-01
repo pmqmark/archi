@@ -26,12 +26,13 @@ function Experience () {
             <div className='info wow fadeInUp' data-wow-delay='0.3s'>
               <h3 className='fsz-45 fw-600 mb-30'> Est. 2015 </h3>
               <div className='text fsz-15 color-666'>
-                Happy Homes is a custom interior design brand powered by Right
-                Angle Interiors, a trusted name in the furniture and interior
-                manufacturing industry since 2015. With over a decade of
-                expertise, we’ve successfully completed 1000+ projects across
-                the southern regions of India, blending diverse cultural styles
-                with personalized design approaches.
+                <strong>Happy Homes</strong> is a custom interior design brand
+                powered by <strong>Right Angle Interiors</strong>, a trusted
+                name in the furniture and interior manufacturing industry since
+                2015. With over a decade of expertise, we’ve successfully
+                completed 1000+ projects across the southern regions of India,
+                blending diverse cultural styles with personalized design
+                approaches.
               </div>
               <a
                 href='/about'

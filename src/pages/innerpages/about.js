@@ -5,7 +5,6 @@ import Navbar from '../../components/innerpage/Navbar';
 import About from '../../components/innerpage/about/About';
 import Process from '../../components/innerpage/about/Process';
 import Projects from '../../components/innerpage/about/Projects';
-import Awards from '../../components/innerpage/about/Awards';
 import Footer from '../../components/innerpage/Footer';
 import Menu from '../../components/innerpage/Menu';
 import { Helmet } from 'react-helmet';
@@ -32,7 +31,7 @@ function AboutPage() {
             <About />
             <Process />
             <Projects />
-            <Awards />
+            {/* <Awards /> */}
           </main>
           <Footer />
         </div>

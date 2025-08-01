@@ -83,15 +83,15 @@ function Cases() {
                           <a href="#"> {item.sub1} </a>
                           <a href="#"> {item.sub2} </a>
                         </div>
-                        <h3 className="title fsz-35 mb-20">
+                        {/* <h3 className="title fsz-35 mb-20">
                           <a href="#" className="hover-orange1">
                             {item.title}
                           </a>
-                        </h3>
-                        <div className="text color-666">
+                        </h3> */}
+                        {/* <div className="text color-666">
                           {item.desc.split('<br />')[0]} <br />{' '}
                           {item.desc.split('<br />')[2]}
-                        </div>
+                        </div> */}
                       </div>
                     </div>
                   </div>
@@ -113,7 +113,7 @@ function Cases() {
                           <a href="#"> {item.sub1} </a>
                           <a href="#"> {item.sub2} </a>
                         </div>
-                        <h3 className="title fsz-35 mb-20">
+                        {/* <h3 className="title fsz-35 mb-20">
                           <a href="#" className="hover-orange1">
                             {item.title}
                           </a>
@@ -121,7 +121,7 @@ function Cases() {
                         <div className="text color-666">
                           {item.desc.split('<br />')[0]} <br />{' '}
                           {item.desc.split('<br />')[2]}
-                        </div>
+                        </div> */}
                       </div>
                     </div>
                   </div>

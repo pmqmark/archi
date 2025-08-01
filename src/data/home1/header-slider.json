@@ -1,20 +1,20 @@
 [
   {
+    "title": "shape",
+    "subTitle": "Architecture meets signature – custom shapes, modern interiors",
+    "desc": "We bring form to function with custom-made furniture and architecture-inspired interiors. As one of the best interior designers in Kochi, we redefine spaces through unique silhouettesand finishes. From concept to creation, every detail is tailor-made.Choose shape-driven design that reflects your identity.",
+    "img": "/service/Commercial_Interior_Design-transformed.jpeg"
+  },
+  {
     "title": "homes",
-    "subTitle": "Architecture Design  Studio",
-    "desc": " We collaborate with clients to create buildings and environments in dialogue with culture and place. And become one of the country's leading architectural practices",
-    "img": "/home1/assets/img/head_slide1.jpg"
+    "subTitle": "Interior design studio creating timeless homes in Kochi.",
+    "desc": "At Happy Homes, we design warm, functional spaces that feel truly yours. With years of experience in interior design in Kochi, we create homes with soul and story. Custom furnishings, mood lighting, and curated layouts — everything made for you. Because every home deserves a designer’s touch.",
+    "img": "/service/Custom-Made_Hanging_Lights-transformed.jpeg"
   },
   {
     "title": "time",
-    "subTitle": "Sustainable Material Resource",
-    "desc": " We collaborate with clients to create buildings and environments in dialogue with culture and place. And become one of the country's leading architectural practices",
-    "img": "/home1/assets/img/head_slide2.png"
-  },
-  {
-    "title": "shape",
-    "subTitle": "Architecture Language Signature",
-    "desc": " We collaborate with clients to create buildings and environments in dialogue with culture and place. And become one of the country's leading architectural practices",
-    "img": "/home1/assets/img/head_slide3.png"
+    "subTitle": "Sustainable interiors built to last — powered by time and tech",
+    "desc": "Time-tested techniques meet tech-enabled production at our Kochi facility. We use eco-conscious materials and efficient methods for lasting design solutions. As leading interior decorators in Kochi, we believe in quality that endures. Design your space for now — and the future.",
+    "img": "/service/Wallpaper__Blinds___Curtains-transformed.jpeg"
   }
 ]

@@ -10,7 +10,6 @@ import Awards from '../components/home1/Awards';
 import Projects from '../components/home1/Projects';
 import Testimonials from '../components/home1/Testimonials';
 import Team from '../components/home1/Team';
-import Blog from '../components/home1/Blog';
 import Chat from '../components/home1/Chat';
 import Footer from '../components/home1/Footer';
 import { Helmet } from 'react-helmet';
@@ -41,7 +40,7 @@ function Home1() {
             <Testimonials />
             <Awards />
             <Team />
-            <Blog />
+            {/* <Blog /> */}
             <Chat />
           </main>
           <Footer />

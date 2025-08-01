@@ -171,7 +171,7 @@ function Team () {
             </div>
           </div>
         </div>
-        <div className='numbers'>
+        {/* <div className='numbers'>
           <div className='row gx-5'>
             <div className='col-lg-4'>
               <div className='number-card wow fadeInUp' data-wow-delay='0.2s'>
@@ -201,7 +201,7 @@ function Team () {
               </div>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   )

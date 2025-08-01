@@ -32,9 +32,12 @@ function About () {
               />
             </div>
           </div>
-          <div className='col-lg-5'>
+          <div className='col-lg-9'>
             <div className='info wow fadeInUp slow' data-wow-delay='0.2s'>
-              <div className='text fsz-25 fw-500 mb-20'>
+              <div
+                className='text fsz-25 fw-500 mb-20 '
+                style={{ textAlign: 'justify' }}
+              >
                 Happy Homes is a custom interior design brand powered by Right
                 Angle Interiors, a trusted name in the furniture and interior
                 manufacturing industry since 2015. With over a decade of
@@ -42,7 +45,10 @@ function About () {
                 the southern regions of India, blending diverse cultural styles
                 with personalized design approaches.
               </div>
-              <div className='text fsz-25 fw-500 mb-20'>
+              <div
+                className='text fsz-25 fw-500 mb-20 '
+                style={{ textAlign: 'justify' }}
+              >
                 What makes us stand out is our commitment to tech-enabled,
                 precision-driven work. Backed by state-of-the-art production
                 units and modern machinery, every piece of furniture is
@@ -51,24 +57,6 @@ function About () {
                 reinforce our quality and reliability. At Happy Homes, we don’t
                 just design spaces — we transform them into personalized living
                 experiences.
-              </div>
-            </div>
-          </div>
-          <div className='col-lg-2'>
-            <div className='numbers mt-5 mt-lg-0'>
-              <div
-                className='number-card wow zoomIn slow'
-                data-wow-delay='0.4s'
-              >
-                <h2 className='numb'> 95% </h2>
-                <small> Clients Satisfied and repeating </small>
-              </div>
-              <div
-                className='number-card wow zoomIn slow'
-                data-wow-delay='0.6s'
-              >
-                <h2 className='numb'> 125% </h2>
-                <small> projects done </small>
               </div>
             </div>
           </div>

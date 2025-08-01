@@ -107,10 +107,10 @@ function Projects() {
                               <a href="#"> {item.sub1} </a>
                               <a href="#"> {item.sub2} </a>
                             </div>
-                            <h3 className="title">
+                            {/* <h3 className="title">
                               <a href="#"> {item.title} </a>
                             </h3>
-                            <div className="text">{item.desc}</div>
+                            <div className="text">{item.desc}</div> */}
                           </div>
                         </div>
                       </div>

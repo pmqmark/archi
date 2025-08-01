@@ -126,7 +126,7 @@ function LatestCases() {
                             <a href="#"> {item.subTitle.split('<br />')[1]} </a>
                           )}
                         </div>
-                        <h3 className="title fsz-35 mb-20">
+                        {/* <h3 className="title fsz-35 mb-20">
                           <a href="#" className="hover-orange1">
                             {item.title}
                           </a>
@@ -134,7 +134,7 @@ function LatestCases() {
                         <div className="text color-666">
                           {item.desc.split('<br />')[0]}
                           <br /> {item.desc.split('<br />')[1]}
-                        </div>
+                        </div> */}
                       </div>
                     </div>
                   </div>

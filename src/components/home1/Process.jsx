@@ -176,7 +176,7 @@ function Process () {
                         data-bs-toggle='collapse'
                         data-bs-target='#collapseSeven'
                       >
-                        <span className='num'> 6 / </span>
+                        <span className='num'> 7 / </span>
                         <h3> Final Site Check</h3>
                       </button>
                     </div>

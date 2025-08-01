@@ -1,6 +1,5 @@
 import React from 'react'
-import demos from '../../data/main-page/demos';
-import pages from '../../data/main-page/innerpages';
+import pages from '../../data/main-page/innerpages'
 
 function Navbar () {
   return (
@@ -119,18 +118,13 @@ function Navbar () {
                 </li> */}
               </ul>
             </li>
-            <li className='nav-item'>
-              <a className='nav-link' href='#'>
-                shop
-              </a>
-            </li>
           </ul>
           <div className='nav-side'>
             <a
               href='#'
               className='butn hover-bg-black text-capitalize bg-orange1 rounded-pill text-white'
             >
-              <span> Purchase Now </span>
+              <span> Contact Us </span>
             </a>
           </div>
         </div>
