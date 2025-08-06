@@ -64,16 +64,17 @@ function Footer () {
           <div className='row'>
             <div className='col-lg-6'>
               <p className='fsz-13'>
-                © {new Date().getFullYear()} Happy Homes. All Right Reserved
+                © {new Date().getFullYear()} Happy Homes. All Right Reserved,
+                {' '}<a href='https://qmarkmedia.com/'>Developed By Qmarkmedia</a>
               </p>
             </div>
             <div className='col-lg-6'>
               <div className='foot-links mt-4 mt-lg-0'>
                 <a href='/'> Home </a>
-                <a href='#'> Studio </a>
-                <a href='#'> Cases </a>
-                <a href='#'> News </a>
-                <a href='#'> Contact </a>
+                <a href='/about'> Studio </a>
+                <a href='/portfolio'> Cases </a>
+                <a href='/blog'> News </a>
+                <a href='/contact'> Contact </a>
               </div>
             </div>
           </div>

@@ -15,7 +15,7 @@ function Projects() {
           </div>
           <div className="col-lg-4 text-lg-end mt-4 mt-lg-0">
             <a
-              href="#"
+              href="/portfolio"
               className="butn borderd border rounded-pill hover-bg-black"
             >
               <span>
@@ -202,7 +202,7 @@ function Projects() {
                         <a href="#"> Furniture </a>
                       </div>
                       <h3 className="title">
-                        <a href="#"> Boston D53 Deluxe Apartment </a>
+                        <a href="#">Deluxe Apartment </a>
                       </h3>
                     </div>
                   </div>
@@ -282,7 +282,7 @@ function Projects() {
                         <a href="#"> Furniture </a>
                       </div>
                       <h3 className="title">
-                        <a href="#"> Boston D53 Deluxe Apartment </a>
+                        <a href="#"> Deluxe Apartment </a>
                       </h3>
                     </div>
                   </div>
