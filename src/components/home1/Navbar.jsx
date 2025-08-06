@@ -7,9 +7,9 @@ function Navbar () {
       <div className='container-fluid content'>
         <a className='navbar-brand' href='#'>
           <img
-            src='/home_preview/assets/img/logo.png'
-            alt=''
-            className='logo'
+            src='/logo1.png'
+            alt='logo'
+            className='logo '
           />
         </a>
         <button

@@ -6,7 +6,7 @@ function Navbar() {
       <div className="container-fluid">
         <a className="navbar-brand me-lg-5" href="#">
           <img
-            src="/innerpages/assets/img/logo_wh.png"
+            src="/logo1.png"
             alt=""
             className="logo"
           />
@@ -45,7 +45,7 @@ function Navbar() {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" href="#">
+              <a className="nav-link" href="/contact">
                 Contact
               </a>
             </li>
