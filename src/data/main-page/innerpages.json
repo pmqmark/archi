@@ -5,21 +5,6 @@
     "title": "About"
   },
   {
-    "link": "/blog",
-    "img": "/home_preview/assets/img/pages/blog.jpg",
-    "title": "Blog"
-  },
-  {
-    "link": "/contact",
-    "img": "/home_preview/assets/img/pages/contact.jpg",
-    "title": "Contact"
-  },
-  {
-    "link": "/portfolio",
-    "img": "/home_preview/assets/img/pages/portfolio.jpg",
-    "title": "Portfolio"
-  },
-  {
     "link": "/services",
     "img": "/home_preview/assets/img/pages/services.jpg",
     "title": "Services"

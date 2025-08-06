@@ -5,12 +5,8 @@ function Navbar () {
   return (
     <nav className='navbar navbar-expand-lg navbar-dark tc-navbar-style1 section-padding-x'>
       <div className='container-fluid content'>
-        <a className='navbar-brand' href='#'>
-          <img
-            src='/logo1.png'
-            alt='logo'
-            className='logo '
-          />
+        <a className='navbar-brand' href='/'>
+          <img src='/logo1.png' alt='logo' className='logo ' />
         </a>
         <button
           className='navbar-toggler'
@@ -57,24 +53,20 @@ function Navbar () {
             </li>
             <li className='nav-item dropdown'>
               <a
-                className='nav-link dropdown-toggle'
-                href='#'
+                className='nav-link '
+                href='/portfolio'
                 role='button'
-                data-bs-toggle='dropdown'
                 aria-expanded='false'
               >
                 Cases
               </a>
-              <ul className='dropdown-menu'>
+              {/* <ul className='dropdown-menu'>
                 <li>
-                  <a
-                    className='dropdown-item'
-                    href='../innerpages/portfolio.html'
-                  >
+                  <a className='dropdown-item' href='/portfolio'>
                     page portfolio
                   </a>
                 </li>
-                {/* <li>
+                <li>
                   <a
                     className='dropdown-item'
                     href='../innerpages/single_project.html'
@@ -89,39 +81,38 @@ function Navbar () {
                   >
                     page single project 2
                   </a>
-                </li> */}
-              </ul>
+                </li>
+              </ul> */}
             </li>
             <li className='nav-item dropdown'>
               <a
-                className='nav-link dropdown-toggle'
-                href='#'
+                className='nav-link '
+                href='/blog'
                 role='button'
-                data-bs-toggle='dropdown'
                 aria-expanded='false'
               >
                 News
               </a>
-              <ul className='dropdown-menu'>
+              {/* <ul className='dropdown-menu'>
                 <li>
                   <a className='dropdown-item' href='../innerpages/blog.html'>
                     page blog
                   </a>
                 </li>
-                {/* <li>
+                <li>
                   <a
                     className='dropdown-item'
                     href='../innerpages/single_post.html'
                   >
                     page single post
                   </a>
-                </li> */}
-              </ul>
+                </li>
+              </ul> */}
             </li>
           </ul>
           <div className='nav-side'>
             <a
-              href='#'
+              href='/contact'
               className='butn hover-bg-black text-capitalize bg-orange1 rounded-pill text-white'
             >
               <span> Contact Us </span>
